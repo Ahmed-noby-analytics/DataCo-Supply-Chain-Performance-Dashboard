@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built with Power Query and DAX to analyze sales, delivery performance, and profitability for DataCo Global, using the DataCo Smart Supply Chain dataset.
 
-The project explores revenue, profit, late deliveries, shipping modes, product categories, and loss-making orders. The goal is to turn raw order data into insights that can support decisions on shipping, delivery promises, and pricing.
+The project explores revenue, profit, late deliveries, shipping modes, product categories, and loss-making orders. The goal  is to turn raw order data into insights that can support decisions on shipping, delivery promises, and pricing.
 
 ![Welcome Page](images/96.PNG)
 
