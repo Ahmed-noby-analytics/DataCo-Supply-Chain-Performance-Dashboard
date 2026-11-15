@@ -383,4 +383,4 @@ Skills demonstrated in this project:
 
 ## Live Power BI Dashboard
 
-[Open the interactive Power BI Dashboard]([YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiY2U2MjAzMmMtNzZmYy00MjkxLTlkMDgtNTQ1NzI5MzY0ZjYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&embedImagePlaceholder=true&pageName=858e5d6470bea5229d38))
+[Open the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2U2MjAzMmMtNzZmYy00MjkxLTlkMDgtNTQ1NzI5MzY0ZjYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=858e5d6470bea5229d38)
