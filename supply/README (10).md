@@ -4,7 +4,7 @@ An interactive Power BI dashboard built with Power Query and DAX to analyze sale
 
 The project explores revenue, profit, late deliveries, shipping modes, product categories, and loss-making orders. The goal is to turn raw order data into insights that can support decisions on shipping, delivery promises, and pricing.
 
-![Welcome Page](images/welcome_page.png)
+![Welcome Page](images/96.png)
 
 ## Table of Contents
 
@@ -82,7 +82,7 @@ The applied steps in Power Query: Promoted Headers, Changed Type, Removed Column
 
 These checks established a consistent foundation for the data model and the analysis.
 
-![Power Query Applied Steps](images/power_query_steps.png)
+![Power Query Applied Steps](images/95.png)
 
 ## 5. Data Model
 
@@ -100,7 +100,7 @@ The data model is intentionally simple: one fact table, one date table, and one 
 
 The relationship is one-to-many with a single filter direction. The calendar is built from the first to the last year of order dates, and the month column is sorted by month number.
 
-![Data Model](images/data_model.png)
+![Data Model](images/94.png)
 
 ## 6. Metric Definitions
 
@@ -184,7 +184,7 @@ A landing page with three navigation buttons: Overview, Delivery, and Products &
 - **Charts:** monthly sales and profit, sales by customer segment, sales by market, and a map of sales by order country.
 - **Slicers:** Market, Year, Department Name.
 
-![Overview Page](images/page1_overview.png)
+![Overview Page](images/91.png)
 
 ### Page 2 – Delivery
 
@@ -192,7 +192,7 @@ A landing page with three navigation buttons: Overview, Delivery, and Products &
 - **Charts:** a matrix of Late Delivery % by order region and shipping mode, actual vs. scheduled days by shipping mode, Late Delivery % by shipping mode, and a donut of orders by delivery status.
 - **Slicers:** Market, Year, Shipping Mode.
 
-![Delivery Page](images/page2_delivery.png)
+![Delivery Page](images/92.png)
 
 ### Page 3 – Products & Profit
 
@@ -200,7 +200,7 @@ A landing page with three navigation buttons: Overview, Delivery, and Products &
 - **Charts:** profit by category, a product table (quantity sold, sales, profit, margin) sorted to show the least profitable products first, a category matrix with average discount, margin, and loss share, and a sales treemap by category.
 - **Slicers:** Year, Market, Department Name, Category Name.
 
-![Products and Profit Page](images/page3_products_profit.png)
+![Products and Profit Page](images/93.png)
 
 ## 8. Key Results
 
@@ -383,4 +383,4 @@ Skills demonstrated in this project:
 
 ## Live Power BI Dashboard
 
-[Open the interactive Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)
+[Open the interactive Power BI Dashboard]([YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiY2U2MjAzMmMtNzZmYy00MjkxLTlkMDgtNTQ1NzI5MzY0ZjYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&embedImagePlaceholder=true&pageName=858e5d6470bea5229d38))
